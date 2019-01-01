@@ -18,10 +18,10 @@
    + switching between rear and front speakers
    + speaker locations for TV watching or tailgating
  - monitor/TV
-  + 144hz
-  + 27 or 32"
-  + $300-700
-  + VESA swing arm (locking mechanism for driving?)
+   + 144hz
+   + 27 or 32"
+   + $300-700
+   + VESA swing arm (locking mechanism for driving?)
 
 ## power system
  - 3kWh UPS LiFePo4 ($700-1000 from china)
