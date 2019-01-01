@@ -18,6 +18,10 @@
    + switching between rear and front speakers
    + speaker locations for TV watching or tailgating
  - monitor/TV
+  + 144hz
+  + 27 or 32"
+  + $300-700
+  + VESA swing arm (locking mechanism for driving?)
 
 ## power system
  - 3kWh UPS LiFePo4 ($700-1000 from china)
@@ -30,6 +34,9 @@
  + 4 player laptop lan capability (one in jumpseat) for 5 hours
  + 8 port switch, rj-45 drops 1x in cabin, switch not on by default
  + network topology modem -> router -> desktop, van computer, switch -> drops
+  - switch disabled by default
+  - router + modem may be the same thing
+ + desk space in van (need a sink cover like simon has)
 
 ## living situation
  - heat (electrical?)
