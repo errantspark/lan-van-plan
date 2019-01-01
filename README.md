@@ -14,9 +14,9 @@
 
 ## entertainment mods
  - speakers
-  + location
-  + switching between rear and front speakers
-  + speaker locations for TV watching or tailgating
+   + location
+   + switching between rear and front speakers
+   + speaker locations for TV watching or tailgating
  - monitor/TV
 
 ## power system
@@ -26,8 +26,18 @@
  - solar controller ($320)
 
 ## lan capability
-`- 0-4p SSBM in < 60s
- - 4 player laptop lan capability (one in jumpseat) for 5 hours
- - 8 port switch, rj-45 drops 1x in cabin, switch not on by default
- - network topology modem -> router -> desktop, van computer, switch -> drops
- 
+ + 0-4p SSBM in < 60s
+ + 4 player laptop lan capability (one in jumpseat) for 5 hours
+ + 8 port switch, rj-45 drops 1x in cabin, switch not on by default
+ + network topology modem -> router -> desktop, van computer, switch -> drops
+
+## living situation
+ - heat (electrical?)
+ - bed (folds into couch, where the fuck do i put it)
+ - cabinets
+ - induction cooktop
+ - espresso machine (12v?)
+ - sink
+ - toilet area? (dometic camping toilet $200)
+ - fridge (dometic 12v fridge $500)
+ - wood panelling (josh has some nice stuff)
